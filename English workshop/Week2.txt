@@ -24,11 +24,31 @@ merchant
 absent
 standardized
 immediate
-
-
-
-
-
+immune
+immunity
+immune system
+mouth
+condition
+absenteeism
+air conditioner
+high-status
+secret
+innermost
+outermost
+conditioning
+representative
+overt
+former
+formal
+subsequent
+presentation
+court
+sentence
+proof
+identification
+formalized
+justice
+identical
 
 ---------------------------------------
 checkup
@@ -128,7 +148,107 @@ immediate
 adj. 立即的，直接的
 This package is for immediate delivery - I'll pay the extra fee.
 ---------------------------------------
+immune
+adj. 有免疫力的，不受影响的，豁免的
+This shot will make you immune to all kinds of diseases(疾病；病害).
 ---------------------------------------
+immunity
+n. 免疫力，豁免权，免除
+This injection will give you immunity to polio(小儿麻痹症).
 ---------------------------------------
+immune system
+免疫系统
+The immune system is the body's natural defence against infection.
 ---------------------------------------
+mouth
+n. 口，嘴
+The dentist(牙科医生) could see her mouth was full of perfect white teeth.
+---------------------------------------
+condition
+n. 状况，状态
+You shouldn't smoke if you have a heart condition.
+---------------------------------------
+absenteeism
+n. 旷工，旷课
+Your absenteesim is the reason I'm firing you.
+---------------------------------------
+air conditioner
+n. 空调，空调设备
+How could our air conditioner break down right at the begining of the heat wave?
+---------------------------------------
+status
+n. 身份，地位，状态
+Like many businesses, we take very good care of our high-status customers.
+---------------------------------------
+secret
+n. 秘密
+Let me tell you a secret about uncle Jack.
+---------------------------------------
+innermost
+adj. 内心的，最里面的，最深处的，秘密的
+Introspection is the best way to bring the innermost feelings to the surface.
+---------------------------------------
+outermost
+adj. 最外面的，最远的
+I need to practice more, all my shots were landing in the outermost ring of the target.
+---------------------------------------
+conditioning
+n. 调节，条件作用，整修，健身训练
+These conditioning exercises will make your body stronger.
+---------------------------------------
+representative
+n. 代理，代理人
+adj. 典型的，有代表性的
+If you have any problems with your product, our presentatives will gladly help you.
+---------------------------------------
+overt
+adj. 公开的，非秘密的
+The gold man's appearance is so overt, he is easy to pick out.
+---------------------------------------
+former
+adj. 在前的，以前的
+n. 前者
+Mt. Rushmore shows four former presidents of US.
+---------------------------------------
+formal
+adj. 正式的，礼仪上的
+Please wear formal clothes to the event--don't embarrass(vt. 使局促不安；使困窘；阻碍) me again!
+---------------------------------------
+subsequent
+adj. 后来的，随后的
+Press this button to play the subsequent track.
+---------------------------------------
+representation
+n. 代表，象征; 图画，塑像
+That painting is actually a pretty good representation of my brother.
+---------------------------------------
+court
+n. 法院
+Your murder trial(试验；审讯) will be in court number one.
+---------------------------------------
+sentence
+v. 宣判，判决
+n. 句子，判决
+I sentence you to a year in prison!
+---------------------------------------
+proof
+n. 证据，证明，校样
+v. 校验
+We have proof that you're sick.
+---------------------------------------
+identification
+n. 身份证明，鉴定，认出，认同
+I'll need to see some form of identification before I let you in the VIP room.
+---------------------------------------
+formalized
+adj. 形式化的，正式的
+Trade relations between our countries will be formalized by this agreeement.
+---------------------------------------
+justice
+n. 公正，公平，审判，司法
+We need to bring criminals(罪犯) to justice.
+---------------------------------------
+identical
+adj. 同一的，完全相同的
+My mother dresses my twin brothers in indentical clothing.
 ---------------------------------------
