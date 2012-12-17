@@ -1,4 +1,5 @@
---Week 1(2012-12-06)--
+##Week 1##
+Date: 2012-12-06
 
 
 facelift
@@ -103,6 +104,7 @@ beard
 beam
 gear
 avid
+commercial
 
 
 profound
@@ -115,3 +117,52 @@ Please classify the documents by color.
 ---------------------------------------
 gear
 n. 齿轮，装备
+I need my gear to go climbing
+---------------------------------------
+commercial
+adj. 商业的，贸易的
+n. 商业广告
+These commercial displays are good for getting people to buy things.
+---------------------------------------
+account for
+解释，说明
+How do you account for the problems we've had with your machine?
+---------------------------------------
+consequently
+adv. 因此，因而，所以
+She's exercising more, and consequently she is losing weight.
+---------------------------------------
+cause
+n. 原因，理由，事业
+v. 引起，造成
+Flicking the light switch causes the lights to turn on.
+---------------------------------------
+arms
+n. 臂，武器
+v. 武装，装备
+Many countries are more concerned about amassing arms than working towards peace.
+---------------------------------------
+armor
+n. 盔甲，装甲，保护物
+You should wear armor--enemies tend to hit back.
+---------------------------------------
+doubtful
+adj. 怀疑的，疑惑的
+He said he believed me, but he looked very doubtful.
+---------------------------------------
+classify
+v. 把...分类
+Please classify the documents by color.
+---------------------------------------
+weapon
+n. 武器，兵器
+We used many weapons to defeat the enemy.
+---------------------------------------
+classfication
+n. 分类，分类法
+This new car doesn't fit any existing classfication.
+---------------------------------------
+assembly line
+n. 装配线，流水线
+Products are quickly mass-produced on an assembly line.
+---------------------------------------
