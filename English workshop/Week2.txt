@@ -49,6 +49,28 @@ identification
 formalized
 justice
 identical
+proofread
+perfect
+justly
+defective
+barter
+commerce
+bound
+exempt
+identify
+defect
+responsibility
+obligation
+exemption
+defecate
+responsible
+somewhat
+mighty
+oblige
+deadly
+terribly
+remark
+considerably
 
 ---------------------------------------
 checkup
@@ -251,4 +273,113 @@ We need to bring criminals(罪犯) to justice.
 identical
 adj. 同一的，完全相同的
 My mother dresses my twin brothers in indentical clothing.
+---------------------------------------
+proofread
+v. 校正，校对
+Could you help me proofread my resume before I send it out?
+---------------------------------------
+perfect
+v. 使完美
+adj. 完美的，绝对的，精通的
+All my darts(飞镖) were in the center for a perfect score.
+---------------------------------------
+justly
+adv. 公正地，正当地
+The judge ruled justly and fairly on the case.
+---------------------------------------
+barter
+v. 易货贸易，讨价还价
+n. 易货贸易，物物交换
+We barter goods directly instead of trading money.
+---------------------------------------
+commerce
+n. 商业，贸易
+Trade and commerce have brought the world together.
+---------------------------------------
+defective
+adj. 有缺陷的，不完美的
+This computer must be defective, It nerver works correctly.
+---------------------------------------
+bound
+adj. 受约束，有义务，一定的
+v. 束缚，使跳跃
+n. 范围，跳跃
+Many people are bound to their jobs.
+---------------------------------------
+perfection
+n. 完美，完善
+The master chef(厨师，大师傅) cooked the dish to perfection.
+---------------------------------------
+exempt
+adj. 被免除的，被豁免的
+v. 免除，豁免
+No one is exempt from tax!
+---------------------------------------
+identify
+[ai'dentifai] v. 认出，鉴定，识别
+Your fingerprints are unique, so they can help identify you to police.
+---------------------------------------
+defect
+n. 欠缺，缺点
+v. 背叛，逃跑，开小差
+The workers try to fix a defect in the chip(削，凿；削成碎片).
+---------------------------------------
+responsibility
+n. 责任，负担
+Holding up the whole world is too big a responsibility for me.
+---------------------------------------
+obligation
+n. 义务, 责任
+Everybody has an obligation to keep our city clean.
+---------------------------------------
+exemption
+n. 免除，豁免，免税
+I am claiming a tax exemption for my family this year.
+---------------------------------------
+defecate
+v. 排便，澄清
+Please don't let your dog defecate on my lawn(草地；草坪).
+---------------------------------------
+responsible
+adj. 有责任的
+I am responsible for the safety of all these planes.
+---------------------------------------
+somewhat
+pron. 一点儿，某种程度上
+adv. 有点儿，某种程度上
+This problem makes me feel somewhat lost.
+---------------------------------------
+mighty
+n. 有势力的人
+adj. 有势力的，强大的，有力的，巨大的
+adv. 很，极
+The mighty ant can lift a thousand times its own weight.
+---------------------------------------
+oblige
+v. 迫使，施恩于，帮忙
+The boss oblige his employee and gives him a pay raise.
+---------------------------------------
+deadly
+adj. 致命的，致死，十足的
+adv. 死一般地，非常
+Smoking can be deadly habit.
+---------------------------------------
+terribly
+adv. 非常，可怕地，极度地
+The ghosts in the movie last night were terribly scary!
+---------------------------------------
+remarkably
+adv. 显著地，非常地，引人注目地
+The colors were remarkably different
+---------------------------------------
+remark
+v. 评论，谈论
+n. 评论，谈论
+I read the remark and got the hint.
+---------------------------------------
+considerably
+adv. 相当地，非常地，在幅度地
+He's gottern considerably thinner since he started going to the gym(健身房) every day.
+---------------------------------------
+---------------------------------------
 ---------------------------------------
