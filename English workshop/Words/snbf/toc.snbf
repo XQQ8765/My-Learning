@@ -1,0 +1,9 @@
+<toc-snbf>
+<head>
+<chapters>2</chapters>
+</head>
+<body>
+<chapter src="c1.snbc"><![CDATA[Week1]]></chapter>
+<chapter src="c2.snbc"><![CDATA[Week2]]></chapter>
+</body>
+</toc-snbf>
