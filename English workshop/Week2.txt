@@ -86,7 +86,16 @@ scholarship
 anticipation
 scholarly
 fingertip
-
+illuminate
+satisfactory
+fusion
+progress
+proclaim
+promising
+date back
+scheme
+void
+devoid
 
 ---------------------------------------
 checkup
@@ -422,7 +431,8 @@ dues
 例句:It is now time to pay my dues.
 ---------------------------------------
 tip
-意思:n.小费，尖端，建议，倾斜 vt.轻击,倾斜  vi.给小费
+意思:n.小费，尖端，建议，倾斜  vt.轻击,倾斜 
+ vi.给小费
 例句:You can use the tip of your pen to push that button.
 ---------------------------------------
 obligated
@@ -453,9 +463,46 @@ fingertip
 意思:n. 指尖；指套
 例句:The doctor took a drop of blood from her fingertip for testing
 ---------------------------------------
+illuminate
+意思:v.照明，照亮，启发 
+例句:Streetlights illuminate the street at night.
 ---------------------------------------
+satisfactory
+意思:adj.令人满意的；良好的
+例句:The results were satisfactory--good enough.
 ---------------------------------------
+fusion
+意思:n.联合，合并；核聚变 
+例句:In the future, we might use nuclear fusion to power our homes.
 ---------------------------------------
+progress
+意思:n.前进，进展；进步 　
+例句:The chart showed that we were making progress, selling more every year.
+---------------------------------------
+proclaim
+意思:v.声明，宣告，表明
+例句:"You are not working hard enough!" our boss proclaimed.
+---------------------------------------
+promising
+意思:adj.有希望的，有前途的
+例句:We have a promising team of engineers in our department.
+---------------------------------------
+date back
+意思:追溯到
+例句:These relics(遗迹，遗骸) date back over ten thousand years.
+---------------------------------------
+scheme
+意思:n．方案；阴谋
+v. 计划；策划例句:This scheme shows how we should play the next game.
+---------------------------------------
+void
+意思:n.真空，虚无，空虚感
+adj.无效的，空的，没有的
+v.使无效例句:From the Moon, space looks like an endless black void.
+---------------------------------------
+devoid
+意思:adj.缺乏的；全无的
+例句:The land he traveled through was completely devoid of life.
 ---------------------------------------
 ---------------------------------------
 ---------------------------------------
