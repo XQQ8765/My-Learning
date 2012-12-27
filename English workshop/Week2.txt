@@ -96,6 +96,14 @@ date back
 scheme
 void
 devoid
+scarce
+scale
+permission
+permissive
+liberty
+libel
+libera
+liberally
 
 ---------------------------------------
 checkup
@@ -504,7 +512,37 @@ devoid
 意思:adj.缺乏的；全无的
 例句:The land he traveled through was completely devoid of life.
 ---------------------------------------
+scarce
+意思:adj.缺乏的，不足的；稀少的，罕见的 
+例句:Oil is scarce but wars to obtain it are not.
 ---------------------------------------
+scale
+意思:n. 天平，规模，尺寸，V.用天平秤 
+例句:The scales of justice never lie.
 ---------------------------------------
+permission
+意思:n.允许，同意
+例句:They gave me an American visa(签证), so I now have permission to travel there.
 ---------------------------------------
+permissive
+意思:adj.纵容的；宽容的
+例句:He was very permissive with his daughter, and rarely punished her
+---------------------------------------
+liberty
+意思:n. 自由
+例句:If you go to New York, you should see the Statue(雕像) of Liberty.
+---------------------------------------
+libel
+意思:n.诽谤，中伤，诋毁；毁坏名誉的东西；控诉书
+v.中伤；控告；对…进行诽谤 
+例句:I was found guilty of libel for making false accusations(控告，指责) about him in print.
+---------------------------------------
+libera
+意思:adj.自由党的，开明的，慷慨的
+n.自由主义者，（英国、加拿大的）自由党成员
+例句:As a liberal, I always try to be open to new and progressive(前进的，进步的) ideas.
+---------------------------------------
+liberally
+意思:adv.自由主义地；开明地；慷慨地
+例句:The banker liberally received cash(现金) bonuses from his bosses.
 ---------------------------------------
