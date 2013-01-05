@@ -16,6 +16,31 @@ scene
 scenery
 scenic
 landscape
+cast-iron
+cast off
+cast away
+casting
+cast
+authority
+authorize
+approve
+approval
+confirm
+confirmation
+original
+originality
+originated
+oriental
+antiquated
+antique
+antiquity
+religion
+religious
+secular
+ritual
+rite
+ceremony
+
 
 ---------------------------------------
 意思:v.解放，释放 
@@ -72,6 +97,102 @@ scenic
 landscape
 意思:n. 地貌，风景，风景画； v. 美化环境 
 例句:The landscape is beautiful, with ice-capped mountains in the background and a river.
+---------------------------------------
+cast-iron
+意思:adj.铸铁的；坚固的；顽强的；严格的
+例句:That cast-iron pot is too heavy to carry.
+---------------------------------------
+cast off
+意思:v.解缆放船；抛弃，丢弃
+例句:They cast off their old furniture(家具，装置).
+---------------------------------------
+cast away
+意思:使失事，使漂流
+例句:I cast away the bottle with the message in it, hoping for an answer.
+---------------------------------------
+casting
+意思:n. 铸造；铸件；投掷；角色分配  v. 铸造；投掷；投向；选派演员
+例句:I was really nervous to go to the casting for the movie.
+---------------------------------------
+cast
+意思:n. 演员阵容，铸件，投射； v. 投，铸造，抛弃
+例句:The fisherman cast his line out, hoping the fish would take notice.
+---------------------------------------
+authority
+意思:n.权威，当局，权力
+例句:The judge is the authority on these matters, so we listened to him.
+---------------------------------------
+authorize
+意思:vt.授权,批准
+例句:You can authorize this document with a stamp.
+---------------------------------------
+approve
+意思:v.赞成，称许，批准
+例句:OK, your idea sounds good--I'll approve it if you promise to do a good job.
+---------------------------------------
+approval
+意思:n.批准；赞同；认可
+例句:The boy gave me his approval to use his picture in the newspaper.
+---------------------------------------
+confirm
+意思:v. 确认，证实，批准
+例句:I'll confirm that I want to buy this shirt online.
+---------------------------------------
+confirmation
+意思:n.证实, 确认, 批准 
+例句:They gave me confirmation that their health is good.
+---------------------------------------
+original
+意思:a.最初的；新颖的 
+例句:He was a very original thinker, always coming up with new ideas.
+---------------------------------------
+originality
+意思:n.创造性，独特性
+例句:A great artist will have a lot of originality in his new ideas.
+---------------------------------------
+originate
+意思:v.发生，起源于；发明
+例句:Humans originated from ape(猿)-like creatures(生物).
+---------------------------------------
+oriental
+意思:adj.东方的 n.东方人
+例句:I love wearing traditional oriental clothing; kimonos(和服) are my favorite
+---------------------------------------
+antiquated
+意思:adj.陈旧的，过时的
+例句:Is this antiquated telephone still usable?
+---------------------------------------
+antique
+意思:n.古玩，古董，古物 adj.古代的，古董的
+例句:We're now selling antique kitchenware from the 1800s.
+---------------------------------------
+antiquity
+意思:n. 高龄；古物；古代的遗物
+例句:One of the most famous stories of antiquity is that of the Trojan Horse.
+---------------------------------------
+religion
+意思:n.宗教，宗教团体
+例句:It's part of my religion to pray five times a day.
+---------------------------------------
+religious
+意思:adj. 宗教性的，虔诚的
+例句:Religious people believe prayer helps them and others.
+---------------------------------------
+secular
+意思:adj.世俗的，尘世的；非宗教的；长久的  
+例句:We don't believe in God, so we had a simple secular wedding in the park.
+---------------------------------------
+ritual
+意思:n.(宗教等的)仪式，例行公事，老规矩 adj.作为仪式一部分的，例行的 
+例句:The Jewish priest(神父，牧师) takes part in a religious ritual(宗教仪式，例行规矩).
+---------------------------------------
+rite
+意思:n. 仪式；惯例；习俗
+例句:They perform these ancient rites because they think it will bring rain
+---------------------------------------
+ceremony
+意思:n.典礼，仪式，礼节 
+例句:The wedding ceremony was beautiful; at the end, we threw flower petals(花瓣) at the bride and groom(新郎).
 ---------------------------------------
 ---------------------------------------
 ---------------------------------------
