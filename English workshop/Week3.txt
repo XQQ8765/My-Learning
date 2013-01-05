@@ -40,7 +40,31 @@ secular
 ritual
 rite
 ceremony
-
+attempt
+forefront 
+confronted
+escapist
+ceremonial
+attend 
+attendant
+attendance 
+brown
+brownish
+hazel
+haze
+provision
+sapphire 
+sap
+tint
+spring 
+springwater
+spring up
+springtime 
+beneath
+benefit 
+amid 
+aloft 
+besides 
 
 ---------------------------------------
 意思:v.解放，释放 
@@ -193,6 +217,107 @@ rite
 ceremony
 意思:n.典礼，仪式，礼节 
 例句:The wedding ceremony was beautiful; at the end, we threw flower petals(花瓣) at the bride and groom(新郎).
+---------------------------------------
+attempt
+意思:v.尝试，试图； n.企图
+例句:My last attempt was successful.
+---------------------------------------
+forefront
+意思:n.最前线，最前部；最活动的中心
+例句:Our university is at the forefront of cancer(癌) research.
+---------------------------------------
+confronted
+意思:v.勇敢的面对，遭遇，使当面对证
+例句:"We have to talk!" shouted the woman as she confronted her boyfriend
+---------------------------------------
+escapist
+意思:n.逃避现实者
+例句:Don't be an escapist - come down and help us with our problems!
+---------------------------------------
+ceremonial
+意思:adj.正式的，礼仪的，仪式的  n.仪式
+例句:The village leader rarely wore his ceremonial attire(服装，打扮).
+---------------------------------------
+attend
+意思:v.出席，参加；照顾，护理
+例句:All the staff members attend the meeting.
+---------------------------------------
+attendant
+意思:n.服务员，侍者，随从 adj.伴随的，随之而产生的
+例句:"What kind of wine would you like tonight?" asked our attendant.
+---------------------------------------
+attendance 
+意思:n.出席(人数)；出席者；陪从，看护，照料
+例句:The attendance at the conference was over a thousand people.
+---------------------------------------
+brown
+意思:n./a.褐色(的),棕色(的)
+例句:She used to have blonde(金发女郞) hair, but now her hair is brown.
+---------------------------------------
+brownish
+意思:adj.呈褐色的 
+例句:If I remember correctly, she has brownish hair.
+---------------------------------------
+hazel 
+意思:n.淡褐色；榛子 adj.淡褐色的；榛树的
+例句:Our yard is full of hazelnuts(榛子) from the hazel tree.
+---------------------------------------
+haze
+意思:n.阴霾；薄雾；疑惑  v.（使）变朦胧；（使)变糊涂
+例句:A misty(有雾的，模糊的) haze clouded the far side of the lake.
+---------------------------------------
+provision
+意思:n.供应，预备，存粮，必需品,（法律等）条款
+例句:I have bought all the provisions for this week.
+---------------------------------------
+sapphire 
+意思:n.青玉，蓝宝石 adj.天蓝色的
+例句:I want this beautiful blue sapphire in my wedding ring!
+---------------------------------------
+sap
+意思:n.树液，元气，活力； v.榨取...的树液，使衰弱（衰竭），挖坑道进攻 
+例句:We can use aloe(芦烩) sap to treat wounds(伤处，创伤).
+---------------------------------------
+tint
+意思:n.色彩；染发剂；染色 v.染色，着色于…
+例句:Which tint of purple do you want for your dress?
+---------------------------------------
+spring
+意思:v.反弹，跳，跃； n.春天，泉例句:Every morning they would spring into the air for sheer(完全地，全然；垂直地，陡峭地) happiness.
+---------------------------------------
+springwater
+意思:n. 泉水；天然泉水
+例句:Your noodles will taste better if you boil them in springwater.
+---------------------------------------
+spring up
+意思:出现，产生
+例句:You should expect your plant to spring up after two weeks.
+---------------------------------------
+springtime
+意思:n. 春天，春季，初期
+例句:Springtime in New York is really beautiful.
+---------------------------------------
+beneath
+意思:prep.在…下方
+例句:Most of the iceberg is beneath the surface.
+---------------------------------------
+benefit 
+意思:n. 好处；利益 v.有益于；有助于
+例句:Everyone would benefit from more money.
+---------------------------------------
+amid
+意思:prep.在…中间，被…围绕
+例句:Help - I'm lost amid all the colored balls!
+---------------------------------------
+aloft
+意思:adv. 在空中，在高处，在上面 
+例句:The balloon quickly went aloft into the blue sky.
+---------------------------------------
+besides
+意思:adv.而且 prep.除…之外
+例句:Besides being a great boyfriend, John also knows first aid.
+---------------------------------------
+---------------------------------------
 ---------------------------------------
 ---------------------------------------
 ---------------------------------------
