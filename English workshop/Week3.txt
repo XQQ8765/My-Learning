@@ -65,6 +65,20 @@ benefit
 amid 
 aloft 
 besides 
+beneficial
+produce
+by-product
+moderate
+breath
+breathe 
+breathless
+breathtaking 
+possession
+property
+memory
+memo 
+fixed 
+proper 
 
 ---------------------------------------
 意思:v.解放，释放 
@@ -317,7 +331,61 @@ besides
 意思:adv.而且 prep.除…之外
 例句:Besides being a great boyfriend, John also knows first aid.
 ---------------------------------------
+beneficial
+意思:adj.有益的，有利的
+例句:It would be beneficial for you to go outside every once in a while.
 ---------------------------------------
+produce
+意思:n.农产品 v.生产；产生
+例句:This factory produces frozen dumplings.
+---------------------------------------
+by-product
+意思:n.副产品；附带产生的结果；意外收获
+例句:Carbon(碳) monoxide(一氧化物) is a by-product of many industrial processes.
+---------------------------------------
+moderate
+意思:adj.适度的，适中的
+例句:The circle in the middle is of moderate size.
+---------------------------------------
+breath
+意思:n.气息，呼吸；气味
+例句:Before we start our exercise, let's take a few deep breaths.
+---------------------------------------
+breathe
+意思:v.呼吸；吸入
+例句:I have a lung(肺) problem - I need to breathe pure oxygen(氧气) through this mask(面具，伪装).
+---------------------------------------
+breathless
+意思:adj. 喘不过气来的；停止呼吸的
+例句:I was breathless after the long run.
+---------------------------------------
+breathtaking 
+意思:adj.惊人的；惊险的；令人激动的
+例句:Isn't this a breathtaking mountain view?
+---------------------------------------
+possesion
+意思:n.所有物，拥有，财产
+例句:If you have one, your house is your most important possession.
+---------------------------------------
+property
+意思:n. 财产；性质；特性 
+例句:Now that I have enough money, it's time to buy some property.
+---------------------------------------
+memory
+意思:n.记忆；回忆；存储 
+例句:My memory of Paris is more beautiful than the photos.
+---------------------------------------
+memo
+意思:n. 备忘录
+例句:I put memos everywhere to remind me of things that I must do.
+---------------------------------------
+fixed 
+意思:adj.固执的；固定的；<美口>处境...的；准备好的；确定的
+例句:Climbers run their ropes through these fixed steel(钢) spikes(钉鞋) to protect themselves.
+---------------------------------------
+proper 
+意思:adj.适合的，恰当的；合乎体统的，正当的；固有的；有礼貌的，正派的
+例句:All waiters at this restaurant must wear proper attire, like a tuxedo.
 ---------------------------------------
 ---------------------------------------
 ---------------------------------------
