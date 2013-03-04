@@ -8,3 +8,24 @@ to inform her about the situation and offer a possible solution.
 http://wiki.answers.com/Q/How_do_you_fix_your_computer_after_a_virus_has_deleted_some_files_from_windows
 
 http://ask-leo.com/how_do_i_recover_my_data_after_a_computer_crash.html
+
+Hi Mira Kelts,
+
+Unfortunatly, I must tell you that my comptur has crashed and all the information has been erased. By far, the easiest, fastest, and most stress-free approach to data recovery after a crash is to simply restore the data from your most recent backup. While, I didn't do a backup. Then things get bad.
+
+At a minimum, I hope that I'll learn from this experience and put a regualar backup plan in place as soon as possible to protect data in my computer.
+
+Now, I can provide a possible solution to recover the data in my computer. These are the steps I'd consider performing to recover lost data:
+
+* Start with search. It's possible that your files have not been erased or deleted at all. Perhaps your recovery was an install of Windows that preserved all of the files on the disk. Use the Windows Search function to search the entire hard disk for one or more files whose filename you know. If found, examine the containing folder and you may find more of your documents. Copy them to a safe location.
+
+* Run CHKDSK. Specifically, "CHKDSK /R" in a Command Prompt window (possibly run with administrative privileges in Windows Vista or Windows 7). If the file system has been corrupted by the crash, it's possible that CHKDSK may uncover lost files. If it reports that it has fixed something, repeat the previous step of searching for your files.
+
+* Run a disk recovery tool. If CHKDSK reports unrecoverable read or CRC errors, then you may want to consider running a disk surface recovery tool, such as SpinRite. It's not free, but depending on the data that you might have lost, the cost could be very reasonable in comparison. 
+
+Whether you successfully recover your data or not, there's a key lesson here that it seems everyone has to learn once, the hard way.
+
+Backing up is the closest thing to protect our data. A good backup can save us from an amazing number of failures, errors, malware infections, and computer crashes.
+
+If our important files are in one and only one place, then must make a back up.
+
